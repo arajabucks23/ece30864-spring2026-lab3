@@ -13,3 +13,8 @@ CSP-18: Role and Responsibilities of the Product Owner vs Scrum Master
 The Product Owner represents the customer and ensures the team is building the right things by setting the product vision, prioritizing the backlog, and clarifying tasks. 
 They define completion criteria and review finished work. The Scrum Master focuses on how the team works together by guiding them in Scrum practices. 
 In addition to facilitating meetings, they remove obstacles and protect the team from interruptions so everyone can stay focused on achieving sprint goals.
+
+CSP-19: Meetings During a Sprint Cycle
+
+During a sprint cycle, three key meetings take place: Sprint Planning, the Daily Standup (Scrum), and the Sprint Retrospective. During Sprint Planning, the Product Owner presents the highest-priority backlog items, and the team decides how much work they can commit to while setting a clear Sprint Goal.
+During the Daily Standup, team members discuss what they completed the previous day, what they plan to work on next, and any impediments or blockers in their way. In the Sprint Retrospective, the team reflects on what went well during the sprint, what did not go well, and identifies improvements to apply in the next sprint.
