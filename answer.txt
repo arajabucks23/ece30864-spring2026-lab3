@@ -1,7 +1,15 @@
 CSP-17: Pros and Cons of Agile Development
 
 Pros:
-Agile allows teams to pivot quickly and adjust to changing requirements and feedback, whereas non-Agile approaches are more fixed once plans are set. Working software is delivered in small, frequent increments through sprints, allowing earlier releases and faster feedback instead of waiting until the final product is completed.
+Agile allows teams to pivot quickly and adjust to changing requirements and feedback, whereas non-Agile approaches are more fixed once plans are set. 
+Working software is delivered in small, frequent increments through sprints, allowing earlier releases and faster feedback instead of waiting until the final product is completed.
 
 Cons:
-Because requirements are not fixed upfront, there is a higher risk of scope creep if the project is poorly managed. Agile can also make it harder to accurately predict the final delivery date or total project cost at the beginning of the project.
+Because requirements are not fixed upfront, there is a higher risk of scope creep if the project is poorly managed. 
+Agile can also make it harder to accurately predict the final delivery date or total project cost at the beginning of the project.
+
+CSP-18: Role and Responsibilities of the Product Owner vs Scrum Master
+
+The Product Owner represents the customer and ensures the team is building the right things by setting the product vision, prioritizing the backlog, and clarifying tasks. 
+They define completion criteria and review finished work. The Scrum Master focuses on how the team works together by guiding them in Scrum practices. 
+In addition to facilitating meetings, they remove obstacles and protect the team from interruptions so everyone can stay focused on achieving sprint goals.
