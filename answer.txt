@@ -18,3 +18,10 @@ CSP-19: Meetings During a Sprint Cycle
 
 During a sprint cycle, three key meetings take place: Sprint Planning, the Daily Standup (Scrum), and the Sprint Retrospective. During Sprint Planning, the Product Owner presents the highest-priority backlog items, and the team decides how much work they can commit to while setting a clear Sprint Goal.
 During the Daily Standup, team members discuss what they completed the previous day, what they plan to work on next, and any impediments or blockers in their way. In the Sprint Retrospective, the team reflects on what went well during the sprint, what did not go well, and identifies improvements to apply in the next sprint.
+
+CSP-20: Difference Between Epic, Story, Bug, and Task in JIRA
+
+An Epic represents a large body of work or major feature that is too big to be completed in a single sprint and is typically broken down into smaller user stories over time. 
+A Story (User Story) is the smallest unit of work that delivers value to the user and is often written from the user’s perspective, and can usually be completed within one sprint. 
+A Bug is an issue type used to track defects or problems in the system where functionality does not work as expected and requires fixing. A Task refers to technical or supporting work that needs to be completed but does not directly deliver end-user value, 
+such as refactoring, configuration, or documentation.
